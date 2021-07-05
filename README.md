@@ -1,2 +1,2 @@
-# table-booking
+# Table Booking Software
  Estágio HHS
